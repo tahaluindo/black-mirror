@@ -1,0 +1,41 @@
+# https://oxsecurity.github.io/megalinter/configuration/
+---
+APPLY_FIXES: all
+SHOW_ELAPSED_TIME: true
+FILEIO_REPORTER: false
+GITHUB_STATUS_REPORTER: false
+PRINT_ALPACA: false
+UPDATED_SOURCES_REPORTER: true
+VALIDATE_ALL_CODEBASE: true
+IGNORE_GITIGNORED_FILES: true
+SHOW_SKIPPED_LINTERS: false
+
+ENABLE:
+  - ACTION
+  - BASH
+  - DOCKERFILE
+  - EDITORCONFIG
+  - JSON
+  - MARKDOWN
+  - PERL
+  - PYTHON
+  - REPOSITORY
+  - YAML
+
+DISABLE_LINTERS:
+  - "MARKDOWN_MARKDOWN_LINK_CHECK" # passed on last checks, and is rather lengthy to scan (~500s)
+  - "PYTHON_PYLINT" # presently broken in megalinter v6
+  - "REPOSITORY_CHECKOV" # currently unable to perform a security scan, and other reports are similar to hadolint
+  - "REPOSITORY_SECRETLINT" # made redundant by gitleaks, which provides very detailed information
+  - "REPOSITORY_GITLEAKS" # takes a very long time to process
+  - "REPOSITORY_DEVSKIM" # a bit unstable atm
+  - "REPOSITORY_TRIVY" # TODO: configure to only scan the Dockerfile
+  - "REPOSITORY_SYFT" # generating an unused bill of materials is not necessary
+
+YAML_YAMLLINT_FILTER_REGEX_EXCLUDE: (pnpm-lock.yaml)
+
+# remove lingering docker containers when done
+POST_COMMANDS:
+  - command: docker system prune -f
+    cwd: "workspace"
+    continue_if_failed: true

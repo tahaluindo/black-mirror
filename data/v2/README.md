@@ -1,0 +1,215 @@
+# OISD
+
+*Note: Any lists covered in Black Mirror or are offline are not listed.*
+
+## 🥢 Duplicates
+
+> Sources that contain duplicate and potentially deprecated data.
+
+- [aminurrashid](http://www.aminurrashid.com/files/hosts.txt)
+  - Ancient `WinHelp` version.
+- [abuseme](https://abuseme.nl/)
+  - Project Honey Pot contributors, so some data is likely duplicated.
+- [AmmoniteFilter](https://ammnt.app/)
+  - Optimized for use with AdGuard.
+  - Likely covered by other anti cryptoscam and adult content blacklists.
+- [anal.fi](https://anal.fi/tracking_by_privacychoice_org.txt)
+  - Modern trackers are covered by other lists.
+- [amirtorrez](https://gitlab.com/amirtorrez)
+  - Mirrord ancient list content.
+- [fanboy-adblock](https://github.com/ryanbr/fanboy-adblock)
+  - The EnhancedStats Addon is the only active list.
+- [chipcun](http://chipcun.dynu.com:8080/Upload/47adblock.txt)
+  - Ancient `hostsVN` version.
+- [davidc](http://davidc.theunixplace.com/list.txt)
+  - Last-Modified: Tue, 10 Apr 2007 05:46:21 GMT
+  - Appears to be an ancient `WinHelp` version.
+- Dinis's old RU adlists
+  - [Adblock](http://denis-ovs.narod.ru/adblock.txt)
+  - [Hosts](https://dinis.ru/files/hosts)
+- [hessowan](https://hessowan.prv.pl/blo.txt)
+  - Last-Modified: Fri, 05 Feb 2016 17:00:54 GMT
+  - Ancient `AdAway` version.
+- [labalec](https://labalec.fr/erwan/wp-content/uploads/2013/12/denied_domains.txt)
+  - Ancient `yoyo` version.
+- [idannywu](https://www.idannywu.com//dannywugooglehosts/hosts.txt)
+  - [SY618](https://github.com/SY618)
+  - References a `yhosts` predecessor.
+  - [kelthuzadx](https://github.com/kelthuzadx/hosts)
+- [Naked Browser Pro](http://nakedbrowser.com/pro/.nbhosts.txt)
+  - Ancient `EasyList` version.
+- [stanev](https://stanev.org/abp/adblock_bg.txt)
+  - Guessing this is a 2021 `EasyList` version.
+- [stascorp](https://stascorp.com/hosts.txt)
+  - Last-Modified: Wed, 07 Apr 2010 14:48:19 GMT
+- [szojox](http://szojox.ugu.pl/hosts)
+  - Ancient `WinHelp` + `yoyo` versions
+- [torben](https://torben.g-b.dk/wp-content/uploads/2015/03/hosts.txt)
+  - Ancient `WinHelp` + `yoyo` versions
+- [lansystem](https://www.lansystem.com.br/util01/hosts)
+  - Ancient `WinHelp` version.
+- [mostonet](http://www.mostonet.it/upd/win/hostslv3.new)
+  - Actively updated though!
+- [sspakrac](https://www.sspakrac.hr/blokiraniurl/hosts.txt)
+  - Ancient `WinHelp` version.
+
+## 🧟 Zombies
+
+> Sources that are dead or deprecated and not included but may be [worth mentioning](https://blog.talosintelligence.com/2021/03/domain-dumpster-diving.html).
+
+- [accs-net](http://accs-net.com/hosts/get_hosts.html)
+- [abp-japanese-filters](https://github.com/k2jp/abp-japanese-filters)
+- [nb-m.de](http://nb-m.de/cybercrime/blacklists.txt)
+- [ThirtyThousandList](https://aliyun-static.oss-cn-beijing.aliyuncs.com/Proxy/ThirtyThousandList.Conf)
+  - Last-Modified: Thu, 19 May 2016 14:41:49 GMT
+- [amigas](http://amigas.ru/~vadim/)
+- [unbelovedhosts](https://apk.defim.de/app/unbelovedhosts/hosts.txt)
+  - Last-Modified: Thu, 01 Feb 2018 21:16:17 GMT
+  - APK thread has been removed from XDA forums.
+- [tomalaplaza](https://15hack.tomalaplaza.net/files/aede.txt)
+  - Last-Modified: Sat, 25 Apr 2020 17:10:02 GMT
+  - [End of Services Notice on homepage](https://15hack.tomalaplaza.net/).
+- [280blocker](https://280blocker.net/download/)
+  - All lists available are empty.
+- [thai-ads-filters](https://github.com/adblock-thai/thai-ads-filter#thai-ads-filters)
+- [NixNet DNS](https://docs.nixnet.services/NixNet_DNS)
+- [Henrik Schack](https://adblock.dk/block.csv)
+  - Last-Modified: Wed, 13 Jun 2018 05:57:12 GMT
+  - Not in a CSV format.
+- [adren](https://adren.org/~cyril/)
+- [dcod](https://agh.lite.dcod.ml/hosts.php)
+  - Currently inaccessible due to a SSL_ERROR_RX_RECORD_TOO_LONG error.
+- [PornAway](https://github.com/mhxion/pornaway#readme)
+- [anonymousposter](https://anonymousposter.gitlab.io/ublockorigin-rules/blockrules.txt)
+  - Unable to check due to GitLab's content restriction.
+- [antyblokada](https://antyblokada.pl/)
+  - Last updated in 2019.
+- [babin](http://babin.nelly.free.fr/wwblock.ini)
+  - Last-Modified: Sun, 05 Jun 2005 20:47:25 GMT
+- [abp-japanese-filters](https://github.com/k2jp/abp-japanese-filters)
+- blacklists.cert.gov.ge
+  - Takes too long to respond.
+- [d3d](https://blog.d3d.org/ads_block_d3d_lite.txt)
+- [goods-pro](http://blog.goods-pro.com/wp-uploads/2008/08/hosts.txt)
+- [lxx1](https://www.lxx1.com/wp-content/uploads/2016/03/hosts.txt)
+- daum attachments
+  - [2543873E51C5263237BC28](http://cfile215.uf.daum.net/attach/2543873E51C5263237BC28)
+- tistory attachments
+  - [999DAC3A5B49FF62155599](http://cfile23.uf.tistory.com/attach/999DAC3A5B49FF62155599)
+  - [261EED485142BA5C2283D1](http://cfile25.uf.tistory.com/attach/261EED485142BA5C2283D1)
+- [chitta001](https://chitta001.cocolog-nifty.com/blog/files/host.txt)
+  - Last-Modified: Mon, 12 Mar 2018 13:43:03 GMT
+- [cyberside](https://cyberside.net.ee/adblock/)
+  - [ibiblio](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/)
+- [marcofolio](https://downloads.marcofolio.net/useful/tips/block/hosts.txt)
+- [orbitum](https://extupdate.orbitum.com/adblock/ad_servers.txt)
+  - Last-Modified: Mon, 24 Oct 2016 13:29:47 GMT
+  - Appears to have a modern app that may have active lists somewhere.
+  - <https://orbitum.com/>
+- [fblan](http://fblan.de/postfix/hosts.txt)
+  - Last-Modified: Fri, 14 Dec 2012 21:49:00 GMT
+- [easytimetv](http://file1.easytimetv.com/out_Adblock.conf)
+  - Last-Modified: Sat, 23 Jan 2016 19:49:53 GMT
+  - Maintains extensive headers that may be subject to manipulation.
+  - Perhaps associated with [EasytimeTV](https://github.com/EasytimeTV)?
+- [bestmail](https://files.bestmail.ws/hosts.txt)
+  - Last-Modified: Sat, 26 Nov 2011 01:00:00 GMT
+  - [Homepage](https://www.bestmail.ws/)
+- [Dawsey21](https://github.com/Dawsey21/Lists)
+  - The precursor to Spam404.
+- [adhell](https://github.com/adhell/adhell.github.io)
+- [getlives](https://getlives.com/files/hosts.txt)
+  - Encourge the Twitch Streamer to bring it back?
+  - <https://www.twitch.tv/syrsly>
+- [ayucat](http://git.sourceforge.jp/view?p=ayucat-list/ayucat-list.git;a=blob_plain;f=ayucat-list.txt)
+  - [GitHub](https://github.com/ayucat)
+- [ipfiles](https://hosts.ipfiles.com/)
+  - Good candidate for host checking.
+- [sh0rtie](https://hostsfile.mine.nu/)
+  - Can append one of the following to this URL: `Hosts.txt` `hosts0.txt`
+- [ijustshotyou](https://ijustshotyou.com/hosts.txt)
+  - Pwn me a Joomla.
+- [Tom Conlin](https://ix.cs.uoregon.edu/~tomc/NotAfanboy-adblock.txt)
+  - Guessing this is an old Fanboy list.
+- [jasonhill](https://jasonhill.co.uk/pfsense/ad_servers_dnsbl.txt)
+  - May be good to go: Cloudflare just doesn't like download utilities.
+- [tvtom](jazz.tvtom.pl/download/hosts)
+  - Last-Modified: Sun, 23 May 2021 01:01:11 GMT
+- [jeffmilner](https://jeffmilner.com/hosts)
+  - last-modified: Sat, 06 Jul 2019 16:36:07 GMT
+  - Base site is active.
+- [landlordhat](https://landlordhat.com/stuff/hosts)
+  - [hosts2.txt](https://landlordhat.com/stuff/)
+- [mebrowser](http://mebrowser.com/webservices/ads_data/block_list_data.txt)
+  - Last-Modified: Sun, 27 Aug 2017 20:01:10 GMT
+- [Dirk Salva](http://members.ping.de/~dirk/https_free.txt)
+- [meteophysique](http://meteophysique.free.fr/hosts.txt)
+  - Last-Modified: Fri, 11 Apr 2014 21:54:52 GMT
+- [SpamAssassin](http://mirror.serverloft.eu/wstearns/sa-blacklist/sa-blacklist.current.domains)
+  - More info and older lists [here](http://mirror.serverloft.eu/wstearns/sa-blacklist/).
+- [mobione](https://mobione.pl/adaway.txt)
+- [mozgabyte](http://mozgabyte.narod.ru/files/hosts.txt)
+  - Last-Modified: Wed, 02 Mar 2016 14:02:14 GMT
+- [nagafix](https://nagafix.co.uk/resources/browsers/hosts.txt)
+  - Last-Modified: Tue, 09 Jan 2007 23:07:50 GMT
+- [neko](http://neko.kapsi.fi/hosts/neko-hosts-upd.txt)
+  - last-modified: Fri, 07 Jul 2017 06:00:13 GMT
+- [Parasite Eliminator](http://parasite-eliminator.narod.ru/updates/update.txt)
+  - Last-Modified: Mon, 08 Apr 2013 23:51:06 GMT
+- egloos attachments
+  - [201510/20/97](http://pds25.egloos.com/pds/201510/20/97/Microsoft_Diagnostics_Tracking.txt)
+- ynet attachments
+  - [11415367](https://prdupl02.ynet.co.il/ForumFiles/11415367.txt)
+- [tknr](https://github.com/tknr/adblock-plus-japanese-filter)
+- [michaeltrimm](https://github.com/michaeltrimm/hosts-blocking)
+- [doug](http://rdruw.net/doug/Geek/SPYWARE/AD-AWARE/SITES.TXT)
+- [offense-b-gone](https://github.com/ryancastro/offense-b-gone)
+- [bouras](http://s.bouras.free.fr/linux/hosts)
+  - Last-Modified: Mon, 18 Apr 2005 17:20:25 GMT
+- [shaolinbliter](http://shaolinbliter.free.fr/hosts.txt)
+- squarespace attachments
+  - [1381778865929](http://static.squarespace.com/static/5123cad2e4b03a5603ce855a/t/525c45b1e4b01707f4b5844c/1381778865929/ads.txt)
+  - [1381779186239](http://static.squarespace.com/static/5123cad2e4b03a5603ce855a/t/525c46f2e4b0a70777c20012/1381779186239/malware.txt)
+- [Pitrisovy](http://stuff.pitris.info/adblock/)
+- [tek00](http://tek00.free.fr/HOSTS.txt)
+  - Mirror of the AdzHosts application hosts.
+- [tekrider](https://tekrider.net/general/hosts.txt)
+- [v1x0r](https://v1x0r.com/downloads/blocklist/)
+  - There is recent activity: may be of interest to monitor.
+- [watweewoo](http://watweewoo.altervista.org/coding/mixed/hosts.htm)
+- [fatboy9175](https://www.angelfire.com/comics2/fatboy9175/)
+  - [MShosts](https://www.angelfire.com/comics2/fatboy9175/MShosts.txt)
+  - [uthosts](https://www.angelfire.com/comics2/fatboy9175/uthosts.txt)
+- [battleit](http://www.battleit.ee/filter2.txt)
+- [be4u](http://www.be4u.kr/wp/wp-content/uploads/2010/11/hosts1.txt)
+- [Randolph Langley](https://www.cs.fsu.edu/~langley/other.zones)
+- [etscdimmo](http://www.etscdimmo.free.fr/cv/hosts)
+  - Last-Modified: Thu, 25 Mar 2010 20:08:22 GMT
+- [fotozik](https://www.fotozik.fr/wp-content/uploads/2010/02/hosts.txt)
+  - Seems to be another AdzHost list.
+- [funnyai](https://www.funnyai.com/upload/file/20131208015703.txt)
+- [gonewto](http://www.gonewto.com/main.conf)
+  - Last-Modified: Mon, 23 Jul 2018 13:24:41 GMT
+- [jabcreations](https://www.jabcreations.com/downloads/adblock-filters.php)
+- [kn34pc](https://www.kn34pc.com/tmp/)
+- [larrygc](http://www.larrygc.com/rip/hosts)
+- [Leigh Brasington](http://www.leighb.com/hosts.txt)
+- [nsit](https://www.nsit.co.za/files/linux_related/adslist.txt)
+  - last-modified: Mon, 06 Apr 2015 08:50:56 GMT
+- [veity](https://www.physik.tu-berlin.de/~veity/)
+- [r-rill](http://www.r-rill.net/AdBlocker/myRules.txt)
+  - Last-Modified: Sat, 15 Mar 2014 12:46:42 GMT
+- [songwave](http://www.songwave.com/software/blocklist.txt)
+- [stupidmormons](http://www.stupidmormons.com/privacy/Hosts.txt)
+  - Last-Modified: Thu, 31 Oct 2002 14:13:44 GMT
+- [taiwanmobileservices](http://www.taiwanmobileservices.com/vpn/shadowsocks.conf)
+  - Last-Modified: Thu, 22 Aug 2019 07:16:09 GMT
+- [tecnopcx](https://tecnopcx.com/Cyber/data.host)
+  - last-modified: Wed, 11 Jan 2012 05:13:01 GMT
+- [verzijlbergh](https://www.verzijlbergh.com/adblock/nlblock.txt)
+- [zawards](http://zawards.net/Files/hosts_Ultimate.txt)
+  - Last-Modified: Fri, 17 Apr 2015 11:26:09 GMT
+- [zitstif](http://zitstif.no-ip.org)
+  - [THENEWLIST](http://zitstif.no-ip.org/THENEWLIST.txt)
+    - Last-Modified: Tue, 18 Apr 2017 02:13:20 GMT
+  - [Other Lists](http://zitstif.no-ip.org/?cat=1037)

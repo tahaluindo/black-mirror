@@ -1,0 +1,6 @@
+# https://www.mankier.com/1/shellcheck#RC_Files
+# https://github.com/koalaman/shellcheck/wiki/Ignore#ignoring-errors
+
+source-path=./scripts
+disable=SC1010
+disable=SC2016
